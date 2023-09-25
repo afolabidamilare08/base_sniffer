@@ -1,5 +1,3 @@
-![Screenshot from 2023-09-25 16-31-54](https://github.com/afolabidamilare08/base_sniffer/assets/66940336/81b4f2ba-f5aa-4625-89aa-a5234d8e59ba)Base Sniffer
-
 Base Sniffer is a crypto trading bot designed to assist users in navigating the complexities of cryptocurrency trading. It aims to simplify security measures and provide adaptable authentication, making crypto trading more accessible and secure.
 
 Features
